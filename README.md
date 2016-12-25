@@ -128,6 +128,10 @@ History Log
 ------------------
 
 
+- 1.2.0 -- 2016-12-25
+
+    - add Report->hasMessages
+
 - 1.1.1 -- 2016-12-23
 
     - fix InstallerInterface methods
