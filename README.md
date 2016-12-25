@@ -128,6 +128,10 @@ History Log
 ------------------
 
 
+- 1.2.1 -- 2016-12-25
+
+    - fix forget interface
+    
 - 1.2.0 -- 2016-12-25
 
     - add Report->hasMessages
