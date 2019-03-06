@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Installer\Exception;
+namespace Ling\Installer\Exception;
 
 /**
  * This exception is used by operations (OperationInterface)

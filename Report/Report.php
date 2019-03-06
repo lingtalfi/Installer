@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Installer\Report;
+namespace Ling\Installer\Report;
 
-use Installer\Report\ReportMessage\ReportMessage;
-use Installer\Report\ReportMessage\ReportMessageInterface;
+use Ling\Installer\Report\ReportMessage\ReportMessage;
+use Ling\Installer\Report\ReportMessage\ReportMessageInterface;
 
 class Report implements ReportInterface
 {

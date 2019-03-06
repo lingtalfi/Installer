@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Installer;
+namespace Ling\Installer;
 
-use Installer\Operation\OperationInterface;
-use Installer\Report\ReportInterface;
+use Ling\Installer\Operation\OperationInterface;
+use Ling\Installer\Report\ReportInterface;
 
 interface InstallerInterface
 {

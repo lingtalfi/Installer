@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Installer\Operation\Util;
+namespace Ling\Installer\Operation\Util;
 
 
-use Bat\ClassTool;
+use Ling\Bat\ClassTool;
 
 class OperationUtil
 {

@@ -17,7 +17,7 @@ Install
 
 Using the [uni tool](https://github.com/lingtalfi/universe-naive-importer)
 ```bash
-uni import Installer
+uni import Ling/Installer
 ```
 
 
@@ -66,8 +66,8 @@ use FrontOne\Installer\Operations\Layout\UninstallLayoutBridgeDisplayLeftMenuBlo
 use FrontOne\Installer\Operations\RemoveFilesOperation;
 use FrontOne\Installer\Operations\Router\InstallRouterBridgeUri2PagesOperation;
 use FrontOne\Installer\Operations\Router\UninstallRouterBridgeUri2PagesOperation;
-use Installer\Installer;
-use Installer\Report\Report;
+use Ling\Installer\Installer;
+use Ling\Installer\Report\Report;
 
 
 /**

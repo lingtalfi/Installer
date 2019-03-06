@@ -1,11 +1,11 @@
 <?php
 
 
-namespace Installer\Operation;
+namespace Ling\Installer\Operation;
 
 
-use Installer\Exception\AbortInstallException;
-use Installer\Report\ReportInterface;
+use Ling\Installer\Exception\AbortInstallException;
+use Ling\Installer\Report\ReportInterface;
 
 interface OperationInterface
 {

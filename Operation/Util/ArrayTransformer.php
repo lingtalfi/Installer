@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Installer\Operation\Util;
+namespace Ling\Installer\Operation\Util;
 
 
 class ArrayTransformer

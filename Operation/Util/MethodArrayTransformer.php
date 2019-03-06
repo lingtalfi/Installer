@@ -1,11 +1,11 @@
 <?php
 
 
-namespace Installer\Operation\Util;
+namespace Ling\Installer\Operation\Util;
 
 
-use Bat\ClassTool;
-use Installer\Report\ReportInterface;
+use Ling\Bat\ClassTool;
+use Ling\Installer\Report\ReportInterface;
 
 class MethodArrayTransformer extends ArrayTransformer
 {

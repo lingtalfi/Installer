@@ -1,13 +1,13 @@
 <?php
 
 
-namespace Installer\Operation\DeployFile;
+namespace Ling\Installer\Operation\DeployFile;
 
 
-use Bat\FileSystemTool;
-use Installer\Exception\AbortInstallException;
-use Installer\Operation\OperationInterface;
-use Installer\Report\ReportInterface;
+use Ling\Bat\FileSystemTool;
+use Ling\Installer\Exception\AbortInstallException;
+use Ling\Installer\Operation\OperationInterface;
+use Ling\Installer\Report\ReportInterface;
 
 class RemoveFileOperation implements OperationInterface
 {

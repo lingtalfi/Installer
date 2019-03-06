@@ -1,9 +1,9 @@
 <?php
 
 
-namespace Installer\Report;
+namespace Ling\Installer\Report;
 
-use Installer\Report\ReportMessage\ReportMessageInterface;
+use Ling\Installer\Report\ReportMessage\ReportMessageInterface;
 
 interface ReportInterface
 {

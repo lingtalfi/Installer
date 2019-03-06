@@ -1,6 +1,6 @@
 <?php
 
-namespace Installer\Report\ReportMessage;
+namespace Ling\Installer\Report\ReportMessage;
 
 
 class ReportMessage implements ReportMessageInterface

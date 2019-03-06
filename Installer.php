@@ -1,12 +1,12 @@
 <?php
 
 
-namespace Installer;
+namespace Ling\Installer;
 
 
-use Installer\Exception\AbortInstallException;
-use Installer\Operation\OperationInterface;
-use Installer\Report\ReportInterface;
+use Ling\Installer\Exception\AbortInstallException;
+use Ling\Installer\Operation\OperationInterface;
+use Ling\Installer\Report\ReportInterface;
 
 
 /**
