@@ -142,6 +142,10 @@ History Log
 ------------------
 
 
+- 1.2.3 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.2.2 -- 2016-12-27
 
     - add debug some error message precision 
